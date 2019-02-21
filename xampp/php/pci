@@ -1,4 +1,4 @@
-#!\xampp\php\.\php.exe
+#!\AngularJS\xampp\php\.\php.exe
 <?php
 /**
  * Get the Compatibility info from PHP CLI

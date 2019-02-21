@@ -83,7 +83,7 @@ sub AUTOLOAD {
 
 # tie returns the object, so the value returned to require will be true.
 tie %Config, 'Config', {
-    archlibexp => '\\xampp\\perl\\lib',
+    archlibexp => '\\AngularJS\\xampp\\perl\\lib',
     archname => 'MSWin32-x86-multi-thread',
     cc => 'gcc',
     d_readlink => undef,
@@ -95,14 +95,14 @@ tie %Config, 'Config', {
     inc_version_list => '',
     intsize => '4',
     ldlibpthname => '',
-    libpth => '\\xampp\\c\\lib \\xampp\\c\\i686-w64-mingw32\\lib',
+    libpth => '\\AngularJS\\xampp\\c\\lib \\xampp\\c\\i686-w64-mingw32\\lib',
     osname => 'MSWin32',
     osvers => '4.0',
     path_sep => ';',
-    privlibexp => '\\xampp\\perl\\lib',
-    scriptdir => '\\xampp\\perl\\bin',
-    sitearchexp => '\\xampp\\perl\\site\\lib',
-    sitelibexp => '\\xampp\\perl\\site\\lib',
+    privlibexp => '\\AngularJS\\xampp\\perl\\lib',
+    scriptdir => '\\AngularJS\\xampp\\perl\\bin',
+    sitearchexp => '\\AngularJS\\xampp\\perl\\site\\lib',
+    sitelibexp => '\\AngularJS\\xampp\\perl\\site\\lib',
     so => 'dll',
     useithreads => 'define',
     usevendorprefix => 'define',
