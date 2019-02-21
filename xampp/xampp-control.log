@@ -180,3 +180,32 @@
 9:28:23 AM  [main] 	Deinitializing Modules
 9:28:23 AM  [main] 	Deinitializing Control Panel
 
+9:46:02 AM  [main] 	Initializing Control Panel
+9:46:02 AM  [main] 	Windows Version:  Home  64-bit
+9:46:02 AM  [main] 	XAMPP Version: 7.2.1
+9:46:02 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+9:46:02 AM  [main] 	You are not running with administrator rights! This will work for
+9:46:02 AM  [main] 	most application stuff but whenever you do something with services
+9:46:02 AM  [main] 	there will be a security dialogue or things will break! So think 
+9:46:02 AM  [main] 	about running this application with administrator rights!
+9:46:02 AM  [main] 	XAMPP Installation Directory: "d:\angularjs\xampp\"
+9:46:02 AM  [main] 	Checking for prerequisites
+9:46:04 AM  [main] 	All prerequisites found
+9:46:04 AM  [main] 	Initializing Modules
+9:46:04 AM  [Apache] 	XAMPP Apache is already running on port 80
+9:46:04 AM  [Apache] 	XAMPP Apache is already running on port 443
+9:46:04 AM  [main] 	The FileZilla module is disabled
+9:46:04 AM  [main] 	The Mercury module is disabled
+9:46:04 AM  [main] 	Starting Check-Timer
+9:46:04 AM  [main] 	Control Panel Ready
+9:46:10 AM  [Apache] 	Status change detected: stopped
+9:46:10 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:46:10 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:46:10 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:46:10 AM  [Apache] 	Press the Logs button to view error logs and check
+9:46:10 AM  [Apache] 	the Windows Event Viewer for more clues
+9:46:10 AM  [Apache] 	If you need more help, copy and post this
+9:46:10 AM  [Apache] 	entire log window on the forums
+9:51:53 AM  [main] 	Deinitializing Modules
+9:51:53 AM  [main] 	Deinitializing Control Panel
+
